@@ -1,0 +1,2 @@
+# github-first
+pierwsze repo
